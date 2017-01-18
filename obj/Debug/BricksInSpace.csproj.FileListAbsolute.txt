@@ -1,0 +1,9 @@
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe.config
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.csprojResolveAssemblyReference.cache
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.Properties.Resources.resources
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.csproj.GenerateResource.Cache
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.MainWin.resources

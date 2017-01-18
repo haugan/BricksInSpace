@@ -1,0 +1,36 @@
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe.config
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\Bricks in Space 2.csprojResolveAssemblyReference.cache
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.MainWin.resources
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.Properties.Resources.resources
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\Bricks in Space 2.csproj.GenerateResource.Cache
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe.config
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.exe
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.pdb
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.pdb
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\Bricks in Space 2.csprojResolveAssemblyReference.cache
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.MainWin.resources
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.Properties.Resources.resources
+C:\Users\fanfarius\Documents\Visual Studio 2015\Projects\HBV\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\Bricks in Space 2.csproj.GenerateResource.Cache
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe.config
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\bin\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\Bricks in Space 2.csprojResolveAssemblyReference.cache
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.MainWin.resources
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\BricksInSpace.Properties.Resources.resources
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\Oblig1-3 THE ONE\BricksInSpace\obj\Debug\Bricks in Space 2.csproj.GenerateResource.Cache
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\bin\Debug\BricksInSpace.exe.config
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\obj\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\obj\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\bin\Debug\BricksInSpace.exe
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\bin\Debug\BricksInSpace.pdb
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\obj\Debug\Bricks in Space 2.csprojResolveAssemblyReference.cache
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\obj\Debug\BricksInSpace.MainWin.resources
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\obj\Debug\BricksInSpace.Properties.Resources.resources
+C:\Users\Marius Haugan\Documents\Visual Studio 2015\Projects\HBV\PRG2000 OBLIG\OBLIG 1B\BricksInSpace\obj\Debug\Bricks in Space 2.csproj.GenerateResource.Cache
